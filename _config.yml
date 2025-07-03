@@ -4,3 +4,24 @@ theme: just-the-docs
 
 url: https://saychuwho.github.io
 
+aux_links_new_tab: true
+
+# Color scheme
+color_scheme: dark
+
+# Navigation settings
+nav_enabled: true
+
+nav_external_links:
+  - title: "HASS Lab @ DGIST"
+    url: https://sites.google.com/view/hass-dgist/hass-lab
+    hide_icon: false
+    opens_in_new_tab: true
+  - title: "Github"
+    url: https://github.com/saychuwho
+    hide_icon: false
+    opens_in_new_tab: true
+  - title: "huggingface"
+    url: https://huggingface.co/saychuwho
+    hide_icon: false
+    opens_in_new_tab: true
