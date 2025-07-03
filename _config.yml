@@ -17,6 +17,10 @@ nav_external_links:
     url: https://sites.google.com/view/hass-dgist/hass-lab
     hide_icon: false
     opens_in_new_tab: true
+  - title: "Linkedin"
+    url: https://www.linkedin.com/in/seong-jae-chu-a0a168222
+    hide_icon: false
+    opens_in_new_tab: true
   - title: "Github"
     url: https://github.com/saychuwho
     hide_icon: false
